@@ -2,7 +2,7 @@
 name = "hello-project"
 version = "0.1.0"
 description = ""
-authors = ["Samuele Bruna <gigasamu7@gmail.com>"]
+authors = ["Samuele Bruna"]
 readme = "README.md"
 
 [tool.poetry.dependencies]

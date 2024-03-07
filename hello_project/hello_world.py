@@ -3,5 +3,5 @@ def hello_world(name: str) -> None:
 
 
 if __name__ == '__main__':
-    hello_world('Samu')
+    hello_world('Mago')
 
